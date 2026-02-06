@@ -7,7 +7,7 @@ const TrackForm = () => {
   return (
     <div className="form-wrapper">
         <form className="form-style">
-        <img src={download} className="image-fluid"/>
+        <img src={download} className="image-fluid" alt="image"/>
         <h2 className="text-center">Tracking Applications</h2>
         <p className="text-center">Your application for a new ration card has been successfully submitted. Please keep the following application number for tracking purposes.</p>
 

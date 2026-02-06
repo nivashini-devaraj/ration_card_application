@@ -53,7 +53,7 @@ const UploadDocuments = () => {
           <div className="review-doc-item" key={index}>
             <div className="review-doc-content">
               <div className="upload-icon-frame"> 
-                <img src={uploadicon} className=""/>
+                <img src={uploadicon} className="" alt="image"/>
               </div>
               <div className="review-doc-info">
                 <h4>{doc.title}</h4>

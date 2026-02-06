@@ -27,7 +27,7 @@ const Dashboard = () => {
             </div>
 
             <div>
-            <img src={img2} className="image image-fluid"/>
+            <img src={img2} className="image image-fluid" alt="image"/>
             </div>
         </div>
 
@@ -45,7 +45,7 @@ const Dashboard = () => {
             </div>
 
             <div>
-                <img src={img3} className="image image-fluid"/>
+                <img src={img3} className="image image-fluid" alt="image"/>
             </div>
         </div>
 
@@ -62,7 +62,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img4} className="image image-fluid"/>
+                <img src={img4} className="image image-fluid" alt="image"/>
             </div>
         </div>
 
@@ -79,7 +79,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img5} className="image image-fluid"/>
+                <img src={img5} className="image image-fluid" alt="image"/>
             </div>
         </div>
         {/* Download Ration Card */}
@@ -93,7 +93,7 @@ const Dashboard = () => {
                     Download
                 </Link>
             </div>
-            <div> <img src={img6} className="image image-fluid"/></div>
+            <div> <img src={img6} className="image image-fluid" alt="image"/></div>
         </div>
 
         {/* Profile*/}
@@ -108,7 +108,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img7} className="image image-fluid"/>
+                <img src={img7} className="image image-fluid" alt="image"/>
             </div>
         </div>
     </div>

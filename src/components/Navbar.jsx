@@ -8,7 +8,7 @@ const Navbar = () => {
         
         {/* Brand */}
         <Link className="navbar-brand fw-bold" to="/">
-          <img src={logo} />
+          <img src={logo}  alt="LOGO"/>
         </Link>
 
         {/* Mobile toggle */}

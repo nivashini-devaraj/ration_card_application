@@ -1,4 +1,3 @@
-import { Container, Row, Col, Button } from 'react-bootstrap';
 import heroImage from "../assets/img1.jpg";
 import { Link } from "react-router-dom";
 

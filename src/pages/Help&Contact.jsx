@@ -101,7 +101,7 @@ const HelpContact = () => {
             <div className="submit-contact-box">
                 <div className="submit-contact-row">
                 <div className="submit-contact-left">
-                    <div className="submit-contact-icon"><img src={contacticon1} alt="image" className="image image-fluid"/></div>
+                    <div className="submit-contact-icon"><img src={contacticon1} alt="" className="image image-fluid"/></div>
                     <div>
                     <div className="submit-contact-title">Helpline Number</div>
                     <div className="submit-contact-subtitle">
@@ -114,7 +114,7 @@ const HelpContact = () => {
 
                 <div className="submit-contact-row">
                 <div className="submit-contact-left">
-                    <div className="submit-contact-icon"><img src={contacticon2} alt="image" className="image image-fluid"/></div>
+                    <div className="submit-contact-icon"><img src={contacticon2} alt="" className="image image-fluid"/></div>
                     <div>
                     <div className="submit-contact-title">Email Support</div>
                     <div className="submit-contact-subtitle">
@@ -129,7 +129,7 @@ const HelpContact = () => {
 
                 <div className="submit-contact-row">
                 <div className="submit-contact-left">
-                    <div className="submit-contact-icon"><img src={contacticon3} alt="image" className="image image-fluid"/></div>
+                    <div className="submit-contact-icon"><img src={contacticon3} alt="" className="image image-fluid"/></div>
                     <div>
                     <div className="submit-contact-title">Office Address</div>
                     <div className="submit-contact-subtitle">

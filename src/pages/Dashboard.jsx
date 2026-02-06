@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import img2 from "../assets/img 2.jpg";
 import img3 from "../assets/img 3.jpg";
@@ -27,7 +26,7 @@ const Dashboard = () => {
             </div>
 
             <div>
-            <img src={img2} className="image image-fluid" alt="image"/>
+            <img src={img2} className="image image-fluid" alt=""/>
             </div>
         </div>
 
@@ -45,7 +44,7 @@ const Dashboard = () => {
             </div>
 
             <div>
-                <img src={img3} className="image image-fluid" alt="image"/>
+                <img src={img3} className="image image-fluid" alt=""/>
             </div>
         </div>
 
@@ -62,7 +61,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img4} className="image image-fluid" alt="image"/>
+                <img src={img4} className="image image-fluid" alt=""/>
             </div>
         </div>
 
@@ -79,7 +78,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img5} className="image image-fluid" alt="image"/>
+                <img src={img5} className="image image-fluid" alt=""/>
             </div>
         </div>
         {/* Download Ration Card */}
@@ -93,7 +92,7 @@ const Dashboard = () => {
                     Download
                 </Link>
             </div>
-            <div> <img src={img6} className="image image-fluid" alt="image"/></div>
+            <div> <img src={img6} className="image image-fluid" alt=""/></div>
         </div>
 
         {/* Profile*/}
@@ -108,7 +107,7 @@ const Dashboard = () => {
                 </Link>
             </div>
             <div>
-                <img src={img7} className="image image-fluid" alt="image"/>
+                <img src={img7} className="image image-fluid" alt=""/>
             </div>
         </div>
     </div>
